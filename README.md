@@ -58,8 +58,12 @@ AUC promedio obtenido: **~0.63** (baseline aceptable para problema desbalanceado
 ---
 
 ##  API (prototipo)
-Se implementó una API con FastAPI que expone un endpoint `/evaluate_risk`
+Se implementó un prototipo de API con FastAPI que expone un endpoint `/evaluate_risk`
 para retornar la probabilidad de default y una recomendación de decisión.
+
+---
+## Ejecución
+Abrir el notebook `examen_HOME_CREDIT.ipynb` y ejecutar las celdas en orden.
 
 ---
 
