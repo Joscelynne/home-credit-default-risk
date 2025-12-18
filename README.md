@@ -23,15 +23,14 @@ Se utilizó la metodología **CRISP-DM**, separando el proyecto en las siguiente
 ---
 
 ##  Estructura del proyecto
+```bash
 HomeCredit/
-│
-├── data/ # Datos en formato parquet
-├── artifacts/ # Modelo entrenado
-│ └── home_credit_model.joblib
-│
-├── examen_HOME_CREDIT.ipynb # Notebook principal
-│
+├── data/                     # Datos en formato parquet
+├── artifacts/                # Modelo entrenado
+│   └── home_credit_model.joblib
+├── examen_HOME_CREDIT.ipynb  # Notebook principal
 └── README.md
+```
 
 
 ---
